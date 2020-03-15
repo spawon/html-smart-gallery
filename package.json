@@ -1,6 +1,6 @@
 {
   "name": "html-smart-gallery",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Smart gallery for your app.",
   "files": [
     "LICENSE",
@@ -31,8 +31,5 @@
   "bugs": {
     "url": "https://github.com/spawon/html-smart-gallery/issues"
   },
-  "homepage": "https://github.com/spawon/html-smart-gallery#readme",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
-  }
+  "homepage": "https://github.com/spawon/html-smart-gallery#readme"
 }
