@@ -1,0 +1,35 @@
+{
+  "name": "html-smart-gallery",
+  "version": "0.1.0",
+  "description": "Smart gallery for your app.",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "package.json",
+    "app.js",
+    "app.d.ts",
+    "tsconfig.json"
+  ],
+  "module": "html-smart-gallery",
+  "main": "app.js",
+  "types": "app.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spawon/html-smart-gallery.git"
+  },
+  "keywords": [
+    "html",
+    "smart-gallery",
+    "gallery",
+    "html-smart-gallery"
+  ],
+  "author": "Vuacheslav Maslov <spawon@nxt.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spawon/html-smart-gallery/issues"
+  },
+  "homepage": "https://github.com/spawon/html-smart-gallery#readme"
+}
